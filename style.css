@@ -1,0 +1,9 @@
+body {
+    max-width: 1000px;
+    margin: 20 auto;
+}
+
+img {
+    margin: 0px 0px 20px 20px;
+    float: right;
+}
