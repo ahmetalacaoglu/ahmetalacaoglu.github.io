@@ -4,4 +4,4 @@
 \newcommand{\scal}[1]{\langle #1 \rangle}
 
 @def generate_rss = false
-@def prepaty = "mysite11"
+@def prepath = "mysite11"
