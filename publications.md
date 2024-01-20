@@ -1,4 +1,4 @@
-# Preprints
+# Under review
 * A. Alacaoglu, V. Cevher and S. J. Wright, "On the Complexity of a Practical Primal-Dual Coordinate Method", arXiv:2201.07684, 2022
 
 # Publications
