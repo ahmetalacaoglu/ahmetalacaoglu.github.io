@@ -1,7 +1,3 @@
-@def author = "The Oracle"
-
-\newcommand{\R}{\mathbb R}
-\newcommand{\scal}[1]{\langle #1 \rangle}
-
+@def author = "Ahmet Alacaoglu"
+@def hasplotly = false
 @def generate_rss = false
-@def prepath = "mysite11"
