@@ -1,12 +1,13 @@
 # Publications
 
-## Under Review
+### Under Review
 
 * A. Alacaoglu, D. Kim and S. J. Wright, "Extending the Reach of First-Order Algorithms for Nonconvex Min-Max Problems with Cohypomonotonicity", arXiv:2402.05071, 2024
 
 * A. Alacaoglu, V. Cevher and S. J. Wright, "On the Complexity of a Practical Primal-Dual Coordinate Method", arXiv:2201.07684, 2022
 
-## Conference and Journal Publications
+### Conference and Journal Publications
+
 * X. Cai, A. Alacaoglu, J. Diakonikolas, "Variance Reduced Halpern Iteration for Finite-Sum Monotone Inclusions", *International Conference on Learning Representations (ICLR)*, 2024
 
 * A. Alacaoglu and S. J. Wright, "Complexity of Single Loop Algorithms for Nonlinear Programming with Stochastic Objective and Constraints", *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2024
