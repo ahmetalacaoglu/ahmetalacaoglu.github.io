@@ -2,11 +2,11 @@
 
 ### Under Review
 
-* A. Alacaoglu, D. Kim and S. J. Wright, ["Extending the Reach of First-Order Algorithms for Nonconvex Min-Max Problems with Cohypomonotonicity"](https://arxiv.org/abs/2402.05071), arXiv:2402.05071, 2024
-
 * A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Practical Primal-Dual Coordinate Method"](https://arxiv.org/abs/2201.07684), arXiv:2201.07684, 2022
 
 ### Conference and Journal Publications
+
+* A. Alacaoglu, D. Kim and S. J. Wright, ["Extending the Reach of First-Order Algorithms for Nonconvex Min-Max Problems with Cohypomonotonicity"](https://arxiv.org/abs/2402.05071), *International Conference on Machine Learning (ICML)*, 2024
 
 * X. Cai, A. Alacaoglu, J. Diakonikolas, ["Variance Reduced Halpern Iteration for Finite-Sum Monotone Inclusions"](https://openreview.net/forum?id=0i6Z9N5MLY), *International Conference on Learning Representations (ICLR)*, 2024
 
