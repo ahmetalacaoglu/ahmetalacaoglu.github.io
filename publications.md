@@ -6,7 +6,7 @@
 
 ### Conference and Journal Publications
 
-* A. Alacaoglu, D. Kim and S. J. Wright, ["Extending the Reach of First-Order Algorithms for Nonconvex Min-Max Problems with Cohypomonotonicity"](https://arxiv.org/abs/2402.05071), *International Conference on Machine Learning (ICML)*, 2024
+* A. Alacaoglu, D. Kim and S. J. Wright, ["Revisiting Inexact Fixed-Point Iterations for Min-Max Problems: Stochasticity and Structured Nonconvexity"](https://arxiv.org/abs/2402.05071), *International Conference on Machine Learning (ICML)*, 2024
 
 * X. Cai, A. Alacaoglu, J. Diakonikolas, ["Variance Reduced Halpern Iteration for Finite-Sum Monotone Inclusions"](https://openreview.net/forum?id=0i6Z9N5MLY), *International Conference on Learning Representations (ICLR)*, 2024
 
