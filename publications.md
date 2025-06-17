@@ -2,9 +2,13 @@
 
 ### Under Review
 
-* A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Practical Primal-Dual Coordinate Method"](https://arxiv.org/abs/2201.07684), arXiv:2201.07684, 2022
+* A. Alacaoglu, Y. Malitsky, S. J. Wright, ["Towards Weaker Variance Assumptions for Stochastic Optimization"](arXiv:2504.09951), arXiv:2504.09951, 2025
 
 ### Conference and Journal Publications
+
+* A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Simple Primal-Dual Coordinate Method"](https://arxiv.org/abs/2201.07684), *Mathematical Programming*, to appear, 2025
+
+* R. Huang, J. Zhang, A. Alacaoglu,  ["Stochastic Smoothed Primal-Dual Algorithms for Nonconvex Optimization with Linear Inequality Constraints"](https://arxiv.org/abs/2504.07607),*International Conference on Machine Learning (ICML)*, 2025
 
 * A. Alacaoglu, D. Kim and S. J. Wright, ["Revisiting Inexact Fixed-Point Iterations for Min-Max Problems: Stochasticity and Structured Nonconvexity"](https://arxiv.org/abs/2402.05071), *International Conference on Machine Learning (ICML)*, 2024
 
