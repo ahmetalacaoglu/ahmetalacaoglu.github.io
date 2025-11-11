@@ -2,9 +2,9 @@
 
 * Vasiliki Mavrogeourgou (Sep. 2025 -- )
 
-* Kevin Kurian Thomas Vaidyan (coadvised with Michael Friedlander) (Sep. 2025 -- )
+* Kevin Kurian Thomas Vaidyan (co-advised with Michael Friedlander) (Sep. 2025 -- )
 
-* Ying Qi Wen (coadvised with Jiajin Li) (Sep. 2025 -- )
+* Ying Qi Wen (co-advised with Jiajin Li) (Sep. 2025 -- )
 
 # Undergraduate students
 
