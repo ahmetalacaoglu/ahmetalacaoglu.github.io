@@ -1,6 +1,6 @@
 # Graduate students
 
-* Vasiliki Mavrogeourgou (Sep. 2025 -- )
+* Vasiliki Mavrogeorgou (Sep. 2025 -- )
 
 * Kevin Kurian Thomas Vaidyan (co-advised with Michael Friedlander) (Sep. 2025 -- )
 
