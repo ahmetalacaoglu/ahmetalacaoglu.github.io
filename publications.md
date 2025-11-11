@@ -6,7 +6,7 @@
 
 ### Conference and Journal Publications
 
-* A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Simple Primal-Dual Coordinate Method"](https://arxiv.org/abs/2201.07684), *Mathematical Programming*, to appear, 2025
+* A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Simple Primal-Dual Coordinate Method"](https://link.springer.com/article/10.1007/s10107-025-02247-8), *Mathematical Programming*, 2025
 
 * R. Huang, J. Zhang, A. Alacaoglu,  ["Stochastic Smoothed Primal-Dual Algorithms for Nonconvex Optimization with Linear Inequality Constraints"](https://arxiv.org/abs/2504.07607), *International Conference on Machine Learning (ICML)*, 2025
 
