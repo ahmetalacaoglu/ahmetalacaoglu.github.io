@@ -4,7 +4,13 @@
 
 * A. Alacaoglu, Y. Malitsky, S. J. Wright, ["Towards Weaker Variance Assumptions for Stochastic Optimization"](https://arxiv.org/abs/2504.09951), arXiv:2504.09951, 2025
 
+* Y. Lin, Y. Kuang, A. Alacaoglu, M. P. Friedlander, ["Decentralized Optimization with Topology-Independent Communication"](https://arxiv.org/abs/2509.14488), arXiv: 2509.14488, 2025
+
 ### Conference and Journal Publications
+
+* K. K. T. Vaidyan, M. P. Friedlander, A. Alacaoglu,  ["Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms"](https://arxiv.org/abs/2602.05489), *International Conference on Machine Learning (ICML)*, 2026
+
+* A. Alacaoglu, J. Kim, ["Solving Stochastic Variational Inequalities without the Bounded Variance Assumption"](https://arxiv.org/abs/2602.05531), *International Conference on Machine Learning (ICML)*, 2026
 
 * A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Simple Primal-Dual Coordinate Method"](https://link.springer.com/article/10.1007/s10107-025-02247-8), *Mathematical Programming*, 2025
 
