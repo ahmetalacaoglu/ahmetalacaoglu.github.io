@@ -2,6 +2,10 @@
 
 ### Under Review
 
+* J.-H. Kim, A. Alacaoglu, ["Improving the Last-Iterate Guarantees of Anytime Algorithms for Stochastic Monotone Variational Inequalities"](https://arxiv.org/abs/2609.15257), arXiv: 2609.15257, 2026
+
+* A. Alacaoglu, ["How to Make the Gradient Mapping Small for Constrained Stochastic Min-Max Problems and Beyond"](https://arxiv.org/abs/2609.08380), arXiv: 2609.08380, 2026
+
 * Y. Lin, Y. Kuang, A. Alacaoglu, M. P. Friedlander, ["Decentralized Optimization with Topology-Independent Communication"](https://arxiv.org/abs/2509.14488), arXiv: 2509.14488, 2025
 
 ### Conference and Journal Publications
@@ -10,7 +14,7 @@
 
 * K. K. T. Vaidyan, M. P. Friedlander, A. Alacaoglu,  ["Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms"](https://arxiv.org/abs/2602.05489), *International Conference on Machine Learning (ICML)*, 2026
 
-* A. Alacaoglu, J. Kim, ["Solving Stochastic Variational Inequalities without the Bounded Variance Assumption"](https://arxiv.org/abs/2602.05531), *International Conference on Machine Learning (ICML)*, 2026
+* A. Alacaoglu, J.-H. Kim, ["Solving Stochastic Variational Inequalities without the Bounded Variance Assumption"](https://arxiv.org/abs/2602.05531), *International Conference on Machine Learning (ICML)*, 2026
 
 * A. Alacaoglu, V. Cevher and S. J. Wright, ["On the Complexity of a Simple Primal-Dual Coordinate Method"](https://link.springer.com/article/10.1007/s10107-025-02247-8), *Mathematical Programming*, 2025
 

@@ -15,3 +15,5 @@
 * Ruichuan Huang (co-advised with Jiawei Zhang from UW--Madison) (Feb. 2025 -- Jun. 2025), now a PhD student at MIT
 
 * Kieran Pattison (Jun. 2025 -- Jun 2026), now a PhD student at UT Austin
+
+* Divita Singh (Jun. 2026 -- Aug 2026), now a graduate student at NYU
