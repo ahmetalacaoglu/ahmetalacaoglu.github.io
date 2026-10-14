@@ -1,5 +1,5 @@
 # Service
-* Area chair: ICML 2025, AISTATS 2025-2026, NeurIPS 2025, ICLR 2026
+* Area chair: ICML 2025-2026, AISTATS 2025-2027, NeurIPS 2025-2026, ICLR 2026
 * Conference reviewer: ICML 2020-2024, NeurIPS 2019-2023, ICLR 2020-2022, 2024, COLT 2022-2024, AISTATS 2024
 * Expert reviewer: ICML 2021
 * Journal reviewer: SIAM Journal on Optimization (SIOPT), Mathematical Programming, Mathematics of Operations Research, SIAM Journal on Imaging Sciences, Journal of Machine Learning Research (JMLR), IEEE Transactions on Information Theory, Journal on Optimization Theory Applications (JOTA), Computational Optimization and Applications (COAP), Optimization Methods and Software, Transactions of Machine Learning Research (TMLR), IEEE Transactions on Automatic Control (TAC), EURO Journal on Computational Optimization, Open Journal of Mathematical Optimization

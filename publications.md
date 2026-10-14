@@ -6,11 +6,11 @@
 
 * A. Alacaoglu, ["How to Make the Gradient Mapping Small for Constrained Stochastic Min-Max Problems and Beyond"](https://arxiv.org/abs/2609.08380), arXiv: 2609.08380, 2026
 
-* Y. Lin, Y. Kuang, A. Alacaoglu, M. P. Friedlander, ["Decentralized Optimization with Topology-Independent Communication"](https://arxiv.org/abs/2509.14488), arXiv: 2509.14488, 2025
-
 ### Conference and Journal Publications
 
 * A. Alacaoglu, Y. Malitsky, S. J. Wright, ["Towards Weaker Variance Assumptions for Stochastic Optimization"](https://arxiv.org/abs/2504.09951), SIAM Journal on Mathematics of Data Science, to appear, 2026+
+
+* Y. Lin, Y. Kuang, A. Alacaoglu, M. P. Friedlander, ["Randomized Local Coordination for Decentralized Optimization"](https://arxiv.org/abs/2509.14488), Journal of Machine Learning Research, to appear, 2026+
 
 * K. K. T. Vaidyan, M. P. Friedlander, A. Alacaoglu,  ["Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms"](https://arxiv.org/abs/2602.05489), *International Conference on Machine Learning (ICML)*, 2026
 
@@ -26,13 +26,13 @@
 
 * A. Alacaoglu and S. J. Wright, ["Complexity of Single Loop Algorithms for Nonlinear Programming with Stochastic Objective and Constraints"](https://arxiv.org/abs/2311.00678), *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2024
 
-* A. Alacaoglu, A. Bohm and Y. Malitsky, ["Beyond the Golden Ratio for Variational Inequality Algorithms"](https://www.jmlr.org/papers/v24/22-1488.html), *Journal of Machine Learning Research (JMLR)*, 2023
+* A. Alacaoglu, A. Bohm and Y. Malitsky, ["Beyond the Golden Ratio for Variational Inequality Algorithms"](https://www.jmlr.org/papers/v24/22-1488.html), *Journal of Machine Learning Research*, 2023
 
 * A. Alacaoglu, H. Lyu, ["Convergence of First-Order Methods for Constrained Nonconvex Optimization with Dependent Data"](https://proceedings.mlr.press/v202/alacaoglu23a.html), *International Conference on Machine Learning (ICML)*, 2023
 
 * A. Alacaoglu, Y. Malitsky. ["Stochastic Variance Reduction for Variational Inequality Methods"](https://proceedings.mlr.press/v178/alacaoglu22a), *Conference on Learning Theory (COLT)*, 2022
 
-* A. Alacaoglu, O. Fercoq, V. Cevher. ["On the Convergence of Stochastic Primal-Dual Hybrid Gradient"](https://epubs.siam.org/doi/abs/10.1137/19M1296252), *SIAM Journal on Optimization (SIOPT)*, 2022
+* A. Alacaoglu, O. Fercoq, V. Cevher. ["On the Convergence of Stochastic Primal-Dual Hybrid Gradient"](https://epubs.siam.org/doi/abs/10.1137/19M1296252), *SIAM Journal on Optimization*, 2022
 
 * A. Alacaoglu, L. Viano, N. He, V. Cevher. ["A Natural Actor-Critic Framework for Zero-Sum Markov Games"](https://proceedings.mlr.press/v162/alacaoglu22a.html), *International Conference on Machine Learning (ICML)*, 2022
 
